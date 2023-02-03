@@ -1,0 +1,15 @@
+asgiref==3.6.0
+click==8.1.3
+colorama==0.4.6
+Django==4.1.6
+joblib==1.2.0
+nltk==3.8.1
+numpy==1.24.1
+regex==2022.10.31
+sqlparse==0.4.3
+tqdm==4.64.1
+tzdata==2022.7
+tensorflow==2.11.0
+pyOpenSSL==23.0.0
+django-extensions==3.2.1
+
